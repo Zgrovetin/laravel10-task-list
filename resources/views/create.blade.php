@@ -14,12 +14,12 @@
 
         <div>
             <label for="description">Description</label>
-            <textarea name="descriptionn" id="description" rows="5"></textarea>
+            <textarea name="description" id="description" rows="5"></textarea>
         </div>
 
         <div>
-            <label for="long_description">Description</label>
-            <textarea name="long_descriptionn" id="long_description" rows="10"></textarea>
+            <label for="long_description">Long Description</label>
+            <textarea name="long_description" id="long_description" rows="10"></textarea>
         </div>
 
         <div>
